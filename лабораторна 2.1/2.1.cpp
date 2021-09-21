@@ -19,5 +19,5 @@ int main()
 	cout << z1 << endl; //вивід результату
 	cout << z2 << endl; // вивід результату
 	// first commit
-
+	// second commit
 }
