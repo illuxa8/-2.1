@@ -18,6 +18,6 @@ int main()
 	z2 = ((1.0) / sqrt(b + 2)); // 2-га формула
 	cout << z1 << endl; //вивід результату
 	cout << z2 << endl; // вивід результату
-
+	// first commit
 
 }
